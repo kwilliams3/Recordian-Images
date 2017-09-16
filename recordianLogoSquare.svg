@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.11111mm"
+   height="141.11111mm"
+   viewBox="0 0 500.00001 500.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="recordianLogoSquare.svg">
+  <title
+     id="title4140">Recordian Logo</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="93.791991"
+     inkscape:cy="220.31489"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Recordian Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Kyle Williams</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-111.42857,-172.36218)">
+    <rect
+       style="fill:#3566b2;fill-opacity:1;stroke-width:74.09999847;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4136"
+       width="500"
+       height="500"
+       x="111.42857"
+       y="172.36218"
+       ry="88.797829"
+       rx="88.797829" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3400"
+       d="m 185.91443,609.0064 c -3.08305,-1.0607 -5.05207,-2.3255 -7.20807,-4.6301 -2.21273,-2.3653 -2.88437,-3.4907 -3.92221,-6.5717 -0.84407,-2.5058 -0.85558,-3.2489 -0.85558,-55.2532 0,-52.0042 0.0115,-52.7473 0.85558,-55.2531 0.47056,-1.397 1.15974,-3.0375 1.5315,-3.6456 0.99926,-1.6346 244.24582,-244.99672 246.04457,-246.16148 5.40839,-3.50213 13.22185,-3.50594 18.67191,-0.009 0.84426,0.5417 6.53988,5.94451 12.65693,12.00626 6.11704,6.06176 23.70922,23.44025 39.0937,38.61888 50.68869,50.01038 52.28743,51.62439 53.41189,53.92263 3.61649,7.39157 3.64508,13.89293 0.0853,19.39128 -1.16467,1.7989 -244.50663,245.06573 -246.14108,246.06503 -0.60808,0.3718 -2.24846,1.061 -3.64532,1.5316 -2.50657,0.8445 -3.22901,0.8555 -55.33988,0.8417 -51.7509,-0.014 -52.84862,-0.031 -55.23924,-0.8531 z m 205.51118,-141.1721 99.79848,-99.8061 -2.34743,-2.53594 c -1.29103,-1.39476 -7.28636,-7.38892 -13.3229,-13.32035 l -10.9755,-10.78442 -12.2599,12.29791 c -6.74294,6.76385 -28.52202,28.7401 -48.39794,48.836 -19.87592,20.096 -38.97471,39.3606 -42.44176,42.8103 -3.46704,3.4498 -22.01296,22.1668 -41.21314,41.5934 -19.20018,19.4266 -39.3571,39.8017 -44.79315,45.2779 l -9.88373,9.9569 12.80578,12.7402 c 7.04318,7.0071 12.90184,12.7403 13.01926,12.7403 0.11741,0 45.12278,-44.9127 100.01193,-99.8061 z m -129.60594,28.8253 c 11.30537,-11.4417 23.39182,-23.6255 26.85878,-27.0752 3.46695,-3.4497 22.01212,-22.1656 41.21147,-41.5908 39.15704,-39.6176 61.87449,-62.55679 90.49742,-91.38067 l 19.516,-19.65302 -12.25682,-12.01926 -12.25681,-12.01925 -99.7614,99.7668 -99.7614,99.7669 12.37546,12.4812 c 6.80651,6.8647 12.52095,12.4914 12.69877,12.5037 0.17781,0.012 9.57315,-9.3388 20.87853,-20.7804 z"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>
